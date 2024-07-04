@@ -13,17 +13,22 @@
     background-size: cover;
     background-position: center;
     color: aliceblue;
+    
 }
-.jjk-header{
+.jjk-header, .obito-header{
     text-decoration: underline;
     font-size: 45px;
     font-weight: 900;
     font-style: italic;
     text-transform: uppercase;
     padding-top: 20px;
+    color: white;
+    text-align: center;
 }
-.jjk-description{
+.jjk-description, .obito-description{
     line-height: 5rem;
+    color: white;
+    
 }
 .obito-section{
     height: 100vh;
@@ -31,5 +36,5 @@
     background-image: url(../images/obito.jpeg);
     background-size: cover;
     background-position: center;
-    
+
 }
