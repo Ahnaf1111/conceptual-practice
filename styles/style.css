@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    margin: 0;
+}
+.jjk-section{
+    font-family: "Josefin Sans", sans-serif;
+    /* border: 5px solid red; */
+    border-radius: 30px;
+    height: 100vh;
+    text-align: center;
+    background-image: url(../images/sukuna.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+.jjk-header{
+    text-decoration: underline;
+    font-size: 45px;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.jjk-description{
+    line-height: 5rem;
+}
+.obito-section{
+    height: 100vh;
+    border: 5px solid purple;
+    background-image: url(../images/obito.jpeg);
+    background-size: cover;
+    background-position: center;
+    
+}
